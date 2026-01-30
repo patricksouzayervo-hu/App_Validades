@@ -2,6 +2,7 @@
 title = Validades
 package.name = validades
 package.domain = org.app
+version = 0.1
 
 source.dir = .
 source.include_exts = py
@@ -12,4 +13,3 @@ orientation = portrait
 fullscreen = 0
 
 android.permissions =
-
